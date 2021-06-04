@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Blusa uno",
+        "price": "150",
+        "image": "uno.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Blusa dos",
+        "price": "100",
+        "image": "dos.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Blusa tres",
+        "price": "120",
+        "image": "tres.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Blusa cuatro",
+        "price": "180",
+        "image": "cuatro.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Blusa cinco",
+        "price": "2000",
+        "image": "cinco.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Blusa seis",
+        "price": "110",
+        "image": "seis.jpg"
+    }
+]
